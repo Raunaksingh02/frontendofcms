@@ -570,7 +570,7 @@ const Courseupload = () => {
                   <>
                     <Loader2 className="animate-spin w-5 h-5" />
 
-                    Creating Course...
+                    Creating Course for Uploading Lectures...
                   </>
                 ) : (
                   <>
